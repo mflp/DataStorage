@@ -1,0 +1,22 @@
+============ Confusion Matrix ============
+[[1699.   95.   59.]
+ [ 390.  183.   44.]
+ [ 212.   59.  209.]]
+============ Confusion Matrix ============
+
+============ Summary of the Combined Stats of each Class ============
+	Precision	Recall		F1Score		TP-Rate		FP-Rate
+
+Negative 0.738 		 0.916 		 0.818 		 0.916 		 0.548
+Neutral  0.543 		 0.296 		 0.383 		 0.296 		 0.066
+Positive 0.669 		 0.435 		 0.527 		 0.435 		 0.041
+============ Summary of the Combined Stats of each Class ============
+
+============ Weighted Summary Combined Stats ============
+Weighted recall              : 0.708
+Weighted precision           : 0.686
+Weighted F(1) Score          : 0.679
+Weighted F(0.5) Score        : 0.678
+Weighted false positive rate : 0.365
+Weighted true positive rate  : 0.708
+============ Weighted Summary Combined Stats ============
